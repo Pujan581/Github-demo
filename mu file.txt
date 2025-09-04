@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-sdcsaf
-=======
-hello world again
->>>>>>> master
